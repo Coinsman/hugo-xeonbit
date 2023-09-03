@@ -1,0 +1,26 @@
+[[main]]
+    # Top-level menu entry
+    identifier = "work"
+    name = "Work"
+    url = "/projects/"
+    weight = 1
+
+[[main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    parent = "work"
+    weight = 1
+
+[[main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    parent = "work"
+    weight = 2
+
+[[main]]
+    identifier = "all-posts"
+    name = "All Posts"
+    url = "/posts"
+    weight = 3

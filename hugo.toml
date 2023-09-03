@@ -1,0 +1,5 @@
+baseURL = '#'
+languageCode = 'en-us'
+title = 'Xeonbit - Not Only A Blockchain Solution'
+theme = 'hugo-liftoff'
+relativeURLs=true
